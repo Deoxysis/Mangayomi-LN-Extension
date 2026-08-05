@@ -1,0 +1,43 @@
+[
+  {
+    "name": "NovelBuddy",
+    "id": 1379383779,
+    "baseUrl": "https://novelbuddy.me",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://novelbuddy.me/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Deoxysis/Mangayomi-LN-Extension/refs/heads/main/novelbuddy.js",
+    "apiUrl": "",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 2,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1
+  },
+  {
+    "name": "Lnori",
+    "id": 6467481151,
+    "baseUrl": "https://lnori.com",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://lnori.com/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Deoxysis/Mangayomi-LN-Extension/refs/heads/main/lnori.js",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": false,
+    "itemType": 2,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1
+  }
+]
